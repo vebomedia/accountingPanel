@@ -1,0 +1,26 @@
+<?php
+
+return [
+    '_form_bank_account' => 'Bank Account',
+    '_form_cash_account' => 'Cash Account',
+    '_page_c4_account' => 'Account',
+    'account_type' => 'Account Type',
+    'balance' => 'Balance',
+    'bank_account_no' => 'Bank Account No',
+    'bank_branch' => 'Bank Branch',
+    'bank_name' => 'Bank Name',
+    'c4_account_id' => 'C4 Account',
+    'created_at' => 'Created Date',
+    'currency' => 'Currency',
+    'deleted_at' => 'Deleted At',
+    'iban' => 'Iban',
+    'is_archived' => 'Is Archived',
+    'list_account_type' => ['cash' => 'Cash','bank' => 'Bank'],
+    'list_currency' => ['TRY' => 'Turkish Lira','USD' => 'ABD Dolar','EUR' => 'Euro','GBP' => 'British Pound'],
+    'list_deleted_at' => ['1' => 'Deleted','0' => 'Undeleted'],
+    'list_is_archived' => ['0' => 'No','1' => 'Yes'],
+    'list_status' => ['1' => 'Active','2' => 'Archive'],
+    'name' => 'Name',
+    'status' => 'Status',
+    'updated_at' => 'Updated Date',
+];
